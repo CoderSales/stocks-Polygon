@@ -9,3 +9,4 @@
   - type in fields to edit contents
 - Optional Step: Can set as default
 - Propose changes
+- Add commit message
