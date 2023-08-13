@@ -1,4 +1,4 @@
-# Visual Studio Code Extension
+# Visual Studio Code Extensions
 
 - TabNine
 - PyLance
