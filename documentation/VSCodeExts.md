@@ -2,4 +2,4 @@
 
 - TabNine
 - PyLance
-- MarkdownLinter
+- markdownlint
