@@ -10,3 +10,4 @@
 - Optional Step: Can set as default
 - Propose changes
 - Add commit message
+- Commit changes
