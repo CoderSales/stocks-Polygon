@@ -7,4 +7,5 @@
 - Optional Step: `Preview and edit` (Before committing to repo)
 - Click pencil to edit
   - type in fields to edit contents
-  
+- Optional Step: Can set as default
+- Propose changes
