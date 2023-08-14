@@ -24,24 +24,6 @@ insert file path / link here
 
 Pseudocode:
 
-```html
-<!-- markdownlint-disable-next-line no-inline-html -->
 <a href="/Detail.md">Detail.md</a>
-```
-
-- mardownlint rule MD033 no-inline-html [DavidAnson/markdownlint/doc/md033.md](https://github.com/DavidAnson/markdownlint/blob/v0.29.0/doc/md033.md)
-
-- Code:
-
-```markdown
-For example:
-
-<!-- markdownlint-disable-next-line no-space-in-emphasis -->
-space * in * emphasis
-```
-
-[DavidAnsonmarkdownlint/README.md](https://github.com/DavidAnson/markdownlint/blob/v0.29.0/README.md)
-
-- [ChatGPT3.5](https://chat.openai.com/)
 
 _______________________________________________________;
