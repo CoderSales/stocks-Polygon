@@ -24,6 +24,6 @@ insert file path / link here
 
 Pseudocode:
 
-<a href="/Detail.md">Detail.md</a>
+[Detail.md](/Detail.md)
 
 _______________________________________________________;
