@@ -71,3 +71,28 @@ function getStockData() {
             processData(data)
         })
 }
+
+// Polygon.io
+// Docs
+// Reference: https://polygon.io/
+
+const { restClient } = require("@polygon.io/client-js")
+const rest = restClient("API_KEY")
+
+rest.stocks
+    .aggregates("AAPL", 1, "day", "2019-01-01", "2019-02-01")
+    .then((data) => {
+        console.log(data)
+    })
+    .catch((e) => {
+        console.error("An error happened:", e)
+    })
+
+
+
+// Reference: https://polygon.io/blog/javascript-stock-market-data
+
+const { restClient } = require('@polygon.io/client-js');
+const rest = restClient("API KEY");
+
+

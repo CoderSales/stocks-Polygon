@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@polygon.io/client-js": "^7.2.6",
     "prompt-sync": "^4.2.0"
   },
   "type": "module"
