@@ -42,4 +42,6 @@ space * in * emphasis
 
 [DavidAnsonmarkdownlint/README.md](https://github.com/DavidAnson/markdownlint/blob/v0.29.0/README.md)
 
+- [ChatGPT3.5](https://chat.openai.com/)
+
 _______________________________________________________;
