@@ -25,15 +25,9 @@ insert file path / link here
 Pseudocode:
 
 ```html
+<!-- markdownlint-disable-next-line no-inline-html -->
 <a href="/Detail.md">Detail.md</a>
 ```
-
-_______________________________________________________;
-
-<!-- markdownlint-disable-next-line no-inline-html -->
-<a href="/Detail.md">
-    Detail.md
-</a>
 
 - mardownlint rule MD033 no-inline-html [DavidAnson/markdownlint/doc/md033.md](https://github.com/DavidAnson/markdownlint/blob/v0.29.0/doc/md033.md)
 
@@ -47,3 +41,5 @@ space * in * emphasis
 ```
 
 [DavidAnsonmarkdownlint/README.md](https://github.com/DavidAnson/markdownlint/blob/v0.29.0/README.md)
+
+_______________________________________________________;
