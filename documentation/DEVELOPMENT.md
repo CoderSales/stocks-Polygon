@@ -29,3 +29,8 @@ Pseudocode:
 ```
 
 _______________________________________________________;
+
+<!-- markdownlint-disable-next-line no-inline-html -->
+<a href="/Detail.md">
+    Detail.md
+</a>
